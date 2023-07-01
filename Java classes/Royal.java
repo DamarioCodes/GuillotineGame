@@ -1,6 +1,6 @@
 /**
  * class that holds the attributes for Royal cards
- * @author Damario Hamilton
+ * @author Damario Hamilton lol
  */
 public class Royal extends Card{
 
